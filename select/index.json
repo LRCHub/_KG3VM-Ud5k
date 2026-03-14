@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "君がいた物語",
   "base_artist": "See-Saw",
-  "createdAt": "2026-01-03T06:43:49.402551Z",
+  "createdAt": "2026-03-14T16:39:41.920440Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,14 @@
       "artist": "See-Saw",
       "has_synced": true,
       "path": "select/08_君がいた物語〜Dream_Field_Mix_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君がいた物語 〜Dream Field Mix〜",
+      "artist": "See-Saw",
+      "has_synced": false,
+      "path": "select/09_君がいた物語_〜Dream_Field_Mix〜_See-Saw.txt"
     },
     {
       "id": "petitlyrics_1",
